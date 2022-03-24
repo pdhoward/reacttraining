@@ -1,0 +1,21 @@
+.filter-bar-items {
+  width: 100%;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.filter-option {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-left: 7px;
+}
+
+.search-select {
+  font-size: 12px;
+}
+
+.filter-option select {
+  margin-left: 7px;
+}
